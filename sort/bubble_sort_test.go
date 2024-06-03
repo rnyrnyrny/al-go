@@ -2,8 +2,9 @@ package sort
 
 import (
 	"fmt"
-	"github.com/rnyrnyrny/al-go"
 	"testing"
+
+	"github.com/rnyrnyrny/al-go/utils"
 )
 
 func TestBubbleSort(t *testing.T) {
